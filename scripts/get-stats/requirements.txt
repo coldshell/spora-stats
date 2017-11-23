@@ -1,0 +1,6 @@
+colorama
+terminaltables
+requests[socks]
+lxml
+retrying
+numpy
